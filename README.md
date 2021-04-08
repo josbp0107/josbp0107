@@ -22,7 +22,6 @@ Hi there, I'm **Jose David**, a **System Enginee** and **Full Stack developer** 
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently learning HTML, CSS, JavaScript, SASS, And Python.
 - 🌱 I’m currently exploring Python with a big interest in Web Scraping. 
 - 🤔 My interests are web-automation, web development and developing some useful and cool stuff
 - 💬 Ask me about anything, I love to answer!
