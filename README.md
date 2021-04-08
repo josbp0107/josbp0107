@@ -28,6 +28,8 @@ Hi there, I'm **Jose David**, a **System Enginee** and **Full Stack developer** 
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [josebp0107@gmail.com](mailto:josebp0107@gmail.com).
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=josbp0107&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jose's GitHub Stats">
+
 <h3>Languages and Tools</h3>  
 
 <h4>Front end</h4> 
@@ -44,7 +46,7 @@ Hi there, I'm **Jose David**, a **System Enginee** and **Full Stack developer** 
 <code><img height="40" src="https://user-images.githubusercontent.com/53883450/114073616-1a96a380-9869-11eb-8973-f9c21f685aa0.png"></code>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=josbp0107&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jose's GitHub Stats">
+
 
 
 
