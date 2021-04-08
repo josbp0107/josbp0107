@@ -28,6 +28,8 @@ Hi there, I'm **Jose David**, a **System Enginee** and **Full Stack developer** 
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [josebp0107@gmail.com](mailto:josebp0107@gmail.com).
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=josbp0107&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Zamran's GitHub Stats">
+
 <h3>Languages and Tools</h3>  
 
 <h4>Front end</h4> 
