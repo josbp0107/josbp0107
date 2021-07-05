@@ -47,7 +47,5 @@ Hi there, I'm **Jose David**, a **System Engineer**👨‍💻 and **Full Stack 
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=josbp0107&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jose's GitHub Stats">
-
-
+<img  src="https://github-readme-stats.vercel.app/api?username=josbp0107&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jose's GitHub Stats">
 
