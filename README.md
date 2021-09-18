@@ -22,7 +22,7 @@ Hi there, I'm **Jose David**, a **System Engineer**👨‍💻 and **Full Stack 
 
 **About Me!**
 
-- 🌱 I’m currently exploring Python with a big interest in Web Scraping. 
+- 🌱 I’m currently exploring Python with a big interest in Web Scraping and Automation. 
 - 🤔 My interests are web-automation, web development and developing some useful and cool stuff
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [josebp0107@gmail.com](mailto:josebp0107@gmail.com).
